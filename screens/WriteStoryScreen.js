@@ -19,6 +19,7 @@ export default class Write extends Component {
       'Story': this.state.story
   })
   }
+  
   render() {
     return (
       <View>
